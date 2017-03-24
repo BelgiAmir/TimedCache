@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimedCache.Base", "TimedCache.Base\TimedCache.Base.csproj", "{C43E015D-6657-46DF-9231-8B97160194D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimedCache.Core", "TimedCache.Core\TimedCache.Core.csproj", "{E2456AE7-4D4B-4C3C-A45C-FE008F4569E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimedCache.Tests", "TimedCache.Tests\TimedCache.Tests.csproj", "{78013559-1044-438A-82C4-33036AE5D72E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43E015D-6657-46DF-9231-8B97160194D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43E015D-6657-46DF-9231-8B97160194D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43E015D-6657-46DF-9231-8B97160194D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43E015D-6657-46DF-9231-8B97160194D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2456AE7-4D4B-4C3C-A45C-FE008F4569E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2456AE7-4D4B-4C3C-A45C-FE008F4569E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2456AE7-4D4B-4C3C-A45C-FE008F4569E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2456AE7-4D4B-4C3C-A45C-FE008F4569E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78013559-1044-438A-82C4-33036AE5D72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78013559-1044-438A-82C4-33036AE5D72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78013559-1044-438A-82C4-33036AE5D72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78013559-1044-438A-82C4-33036AE5D72E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
